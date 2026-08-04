@@ -140,5 +140,5 @@ HashalaChachama/
 
 ---
 
-# תמונות
-<img width="1280" height="947" alt="השאלה חכמה 1" src="https://github.com/user-attachments/assets/fc8ef827-b54d-4f5f-9e54-51ad55754de3" />
+## 📝 רישיון
+תוכנה פרטית לשימוש גמ"ח. אין להפיץ ללא רשות.
